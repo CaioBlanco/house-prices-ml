@@ -1,0 +1,22 @@
+# Dados brutos (baixar do Kaggle manualmente)
+data/*.csv
+data/*.zip
+
+# Outputs gerados
+outputs/*.png
+outputs/*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
